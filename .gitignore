@@ -1,0 +1,14 @@
+# Entorno virtual (se reinstala con: pip install -r requirements.txt)
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Imágenes (pesadas y personales)
+dataset/
+dataset_respaldo/
+capturas_app/
+pruebas/
+
+# Modelo entrenado (112 MB > límite de 100 MB de GitHub)
+*.keras
+*.h5

@@ -1,0 +1,9 @@
+﻿tensorflow>=2.16
+keras>=3.0
+opencv-python<5
+numpy
+scikit-learn
+matplotlib
+pillow
+streamlit>=1.35
+ipykernel
